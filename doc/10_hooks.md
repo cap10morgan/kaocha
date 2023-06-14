@@ -195,7 +195,7 @@ to the reporter. They receive a single argument, the event map.
 
 An example use case is the [kaocha-noyoda
 plugin](https://github.com/magnars/kaocha-noyoda), which changes the assertion
-order from `(= actual expected)` to `(= expected actual)`.
+order from `(= expected actual)` to `(= actual expected)`.
 
 ### Post-summary
 
